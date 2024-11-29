@@ -1,0 +1,39 @@
+body{
+    background-color: grey ;
+}
+
+h1{
+    font-size: 24px;
+}
+
+form{
+    font-size: 20px;
+}
+
+p{
+
+    display: flex;
+    width: px;
+    float: left;
+}
+
+antwoord{
+    font-size: 15px;
+    background-color: white;
+    border: 1px solid black;
+    display: flex;
+    width: 171px;
+}
+
+button{
+    position:fixed;
+    top: 135px;
+    left: 20px;
+
+}
+
+#antwoord{
+    background-color: white;
+    border: 1px solid black;
+
+}
